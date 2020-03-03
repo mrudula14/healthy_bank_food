@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811926520730",
+    "firebase_url": "https://healthy-food-bank.firebaseio.com",
+    "project_id": "healthy-food-bank",
+    "storage_bucket": "healthy-food-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811926520730:android:f84d960ea5feb2ff4fb023",
+        "android_client_info": {
+          "package_name": "com.healthybankfood.healthy_bank_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811926520730-m2b36m09j608j7vi3fboma930qkr5p95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkx8UM2PhaGY-ZLWR27-VqpTDf4qB7YoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811926520730-m2b36m09j608j7vi3fboma930qkr5p95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
